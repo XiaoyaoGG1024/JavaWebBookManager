@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-8.0.11.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/static/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/static/img/100.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/static/include/footer.jsp" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
